@@ -27,7 +27,6 @@ class TribeMember {
   }
 }
 
-
 // Denis.attack(Artem)
 
 // самостоятельно добавьте класс Тумба Юмба
